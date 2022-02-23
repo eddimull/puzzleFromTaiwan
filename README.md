@@ -2,13 +2,14 @@
 random solution for Taiwan puzzle
 ![](puzzle.png)
 
-Someone sent me this awhile ago. After spending about 5 minutes poking around at figuring out the problem, rather than looking up the answer online, I said 'screw' this and typed up a program to be ran in a javascript console. (the person, who has an undergraduate degree in math solved it before I did...)
+Someone sent me this awhile ago. After spending about 5 minutes poking around at figuring out the problem, rather than looking up the answer online, I said 'screw' this and typed up a program to be ran in a javascript console. (the person who sent the puzzle, who has an undergraduate degree in math, solved it before I did. But I can solve it really fast now.)
 
 #########################################
 
-to run my 'solution' which is just bruteforcing the answer, copy and paste into a javascript console
+to run my 'solution' which is just bruteforcing the answer, copy and paste the hackSolution.js into a javascript console
 
 #########################################
+
 The actual solution is here: https://mindyourdecisions.com/blog/2020/09/25/puzzle-from-taiwan-abcde-x-a-eeeeee/
 
 Answer To Puzzle From Taiwan
